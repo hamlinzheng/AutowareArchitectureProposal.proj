@@ -43,6 +43,10 @@ repositories:
     type: git
     url: https://github.com/Livox-SDK/livox_ros_driver.git
     version: v2.5.0
+  vendor/velodyne_vls:
+    type: git
+    url: https://github.com/tier4/velodyne_vls.git
+    version: tier4/master 
   vendor/ublox:
     type: git
     url: https://github.com/tier4/ublox.git
